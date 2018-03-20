@@ -6,7 +6,7 @@ android {
     buildToolsVersion "25.0.0"
 
     defaultConfig {
-        applicationId "firebase.hucloud.com.firetalk"
+        applicationId "firebase.lee.com.firetalk"
         minSdkVersion 19
         targetSdkVersion 25
         versionCode 10
